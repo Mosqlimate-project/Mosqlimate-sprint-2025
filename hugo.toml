@@ -1,0 +1,4 @@
+baseURL = 'https://sprint.mosqlimate.org'
+languageCode = 'en-us'
+title = 'Mosqlimate - Sprint'
+theme = 'ananke'

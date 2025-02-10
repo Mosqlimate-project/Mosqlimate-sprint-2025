@@ -1,0 +1,6 @@
+name: sprint.mosqlimate.io
+channels:
+  - nodefaults
+  - conda-forge
+dependencies:
+  - hugo
