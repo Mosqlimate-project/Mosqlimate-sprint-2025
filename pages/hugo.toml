@@ -1,4 +1,5 @@
-baseURL = 'https://sprint.mosqlimate.org'
-languageCode = 'en-us'
-title = 'Mosqlimate - Sprint'
-theme = 'ananke'
+baseURL = "https://sprint.mosqlimate.org/"
+languageCode = "en-us"
+title = "Mosqlimate - Sprint"
+theme = "ananke"
+disableKinds = ["RSS", "taxonomy", "term"]
