@@ -28,7 +28,7 @@ jobs:
     - uses: conda-incubator/setup-miniconda@v3
       with:
         miniforge-version: latest
-        environment-file: conda/base.yaml
+        environment-file: conda/dev.yaml
         channels: conda-forge,nodefaults
         activate-environment: sprint.mosqlimate.io
         auto-update-conda: true
