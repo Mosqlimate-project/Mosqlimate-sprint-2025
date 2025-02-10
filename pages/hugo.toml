@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://sprint.mosqlimate.org'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Mosqlimate - Sprint'
+theme = 'ananke'
