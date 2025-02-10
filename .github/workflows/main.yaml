@@ -1,0 +1,46 @@
+name: main
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: ci-${{ github.ref }}
+      cancel-in-progress: true
+    defaults:
+      run:
+        shell: bash -l {0}
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Install OpenGL
+      run: sudo apt-get install -y libgl1-mesa-dev libegl1-mesa-dev
+
+    - uses: conda-incubator/setup-miniconda@v3
+      with:
+        miniforge-version: latest
+        environment-file: conda/base.yaml
+        channels: conda-forge,nodefaults
+        activate-environment: sprint.mosqlimate.io
+        auto-update-conda: true
+        conda-solver: libmamba
+
+    - name: Build Hugo
+      run:  hugo --gc --minify --baseURL https://sprint.mosqlimate.org/
+
+    # Push the book's HTML to github-pages
+    - name: GitHub Pages action
+      uses: peaceiris/actions-gh-pages@v3.5.9
+      if: ${{ github.event_name == 'push' || github.event_name == 'workflow_dispatch' }}
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
