@@ -35,9 +35,8 @@ jobs:
         conda-solver: libmamba
 
     - name: Build Hugo
-      run: |
-        cd pages
-        hugo --gc --minify --baseURL https://sprint.mosqlimate.org/
+      working-directory: pages
+      run: hugo --gc --minify --baseURL https://sprint.mosqlimate.org/
 
     # Push the book's HTML to github-pages
     - name: GitHub Pages action
@@ -45,4 +44,4 @@ jobs:
       if: ${{ github.event_name == 'push' || github.event_name == 'workflow_dispatch' }}
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./pages/public
+        publish_dir: pages/public
