@@ -41,7 +41,9 @@ jobs:
 
     - name: Build Hugo
       working-directory: pages
-      run: hugo --gc --minify --baseURL https://sprint.mosqlimate.org/
+      run: |
+        hugo --gc --minify --baseURL https://sprint.mosqlimate.org/
+        cp CNAME public/
 
     # Push the book's HTML to github-pages
     - name: GitHub Pages action
