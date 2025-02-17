@@ -1,0 +1,22 @@
+<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between items-center">
+    <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.Home.Permalink }}">
+      &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ end }}
+    </a>
+
+    <div>{{ partialCached "social/follow.html" . }}</div>
+
+    <div class="footer-images flex items-center ml-auto">
+      {{ $mosqlimate := resources.Get "logo-mosqlimate.png" }}
+      {{ $infodengue := resources.Get "infodengue-logo.png" }}
+
+      <a href="https://api.mosqlimate.org" title="Mosqlimate">
+        <img src="{{ $mosqlimate.Permalink }}" class="footer-image" style="height:80px;">
+      </a>
+      <a href="https://info.dengue.mat.br/" title="InfoDengue">
+        <img src="{{ $infodengue.Permalink }}" class="footer-image" style="height:70px;">
+      </a>
+    </div>
+  </div>
+</footer>
+
