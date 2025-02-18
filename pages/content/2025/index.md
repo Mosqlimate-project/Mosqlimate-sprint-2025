@@ -1,5 +1,5 @@
 ---
-title: "Save the date in 2025"
+title: "Save the date: May 15th, 2025"
 description: ""
 date: 2024-02-10
 ---
@@ -13,7 +13,7 @@ The year 2024 has seen an exceptional number of reported dengue fever cases in v
 
 ## Save the date!
 
-The 2025 sprint will take place from **May 15th  to October 15th, 2025**. The event will be held online. More details will be announced soon.
+The 2025 sprint will take place from **May 15th to October 15th, 2025**. The event will be held online. More details will be announced soon.
 
 The proposed timeline of events is as follows:
 
