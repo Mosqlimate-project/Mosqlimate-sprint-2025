@@ -20,7 +20,7 @@ The 2025 sprint will take place from **May 15th to October 15th, 2025**. The eve
 The proposed timeline of events is as follows:
 
 1. Release of Call for participation — May 15th, 2025
-1. Forecast submission deadline (validation datasets) — June 16th, 2025
+1. Forecast submission deadline (validation datasets) — June 30th, 2025
 1. Webinar (Results of the validation round) — July 30th, 2025
 1. 2nd Forecast submission deadline (2026 forecasts) - September 23rd, 2025
 1. Presentation of the ensemble model - October 15th, 2025
