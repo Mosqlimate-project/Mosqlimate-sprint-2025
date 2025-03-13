@@ -17,10 +17,11 @@ The year 2024 has seen an exceptional number of reported dengue fever cases in v
 
 The 2025 sprint will take place from **May 15th to October 15th, 2025**. The event will be held online. More details will be announced soon. You can join the [Infodengue discord server](https://discord.gg/FJA8rvhkbS) where more information will be shared, in the *sprint-2025-26* channel. Feel free to ask any questions there as well. Let us know of your team's interest in participating by filling this [RSVP form](https://forms.gle/aaUPPgpa7cvRsNXs8)
 
+
 The proposed timeline of events is as follows:
 
 1. Release of Call for participation — May 15th, 2025
-1. Forecast submission deadline (validation datasets) — June 16th, 2025
+1. Forecast submission deadline (validation datasets) — June 30th, 2025
 1. Webinar (Results of the validation round) — July 30th, 2025
 1. 2nd Forecast submission deadline (2026 forecasts) - September 23rd, 2025
 1. Presentation of the ensemble model - October 15th, 2025
