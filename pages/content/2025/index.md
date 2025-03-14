@@ -5,7 +5,7 @@ date: 2024-02-10
 ---
 
 ## Second Dengue Forecast Sprint (2025)
-Our dengue forecast sprint, also known  as the ***Infodengue-Mosqlimate Dengue Challenge (IMDC)***, is a yearly event that brings together researchers, data scientists, and public health professionals to forecast dengue outbreaks in Brazil. The event is organized by the [Infodengue Project](https://infodengue.com) and the [Mosqlimate Project](https://mosqlimate.com).
+Our dengue forecast sprint, also known  as the ***Infodengue-Mosqlimate Dengue Challenge (IMDC)***, is a yearly event that brings together researchers, data scientists, and public health professionals to forecast dengue outbreaks in Brazil. The event is organized by the [Infodengue Project](https://info.dengue.mat.br) and the [Mosqlimate Project](https://mosqlimate.org).
 
 We held the first IMDC in 2024 with the challenge to predict dengue incidence in Brazil in 2025. This first event was a pilot that we used to establish the methodology and tools for the challenge. This year's sprint is expected to engage a much larger set of forecasters in a very exciting collective effort to understand dengue dynamics in Brasil.
 
