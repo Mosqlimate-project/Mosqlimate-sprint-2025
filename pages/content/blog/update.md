@@ -29,5 +29,5 @@ I hope to see you at the event!
 
 All the Best,
 
-Fabiana S. Ganem
+Fabiana Ganem
 Chair of the organizing committee
