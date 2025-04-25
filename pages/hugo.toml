@@ -1,6 +1,6 @@
 baseURL = "https://sprint.mosqlimate.org/"
 languageCode = "en-us"
-title = ""
+title = "Mosqlimate - Sprint"
 theme = "ananke"
 disableKinds = ["RSS", "taxonomy", "term"]
 
@@ -47,6 +47,8 @@ disableKinds = ["RSS", "taxonomy", "term"]
 
   [params]
     custom_css = ["custom.css"]
+    favicon = ""
+    site_logo = "logo-medium.png"
 
   [markup]
   [markup.goldmark]
