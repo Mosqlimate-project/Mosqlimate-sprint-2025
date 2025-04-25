@@ -1,6 +1,6 @@
 baseURL = "https://sprint.mosqlimate.org/"
 languageCode = "en-us"
-title = "Mosqlimate - Sprint"
+title = ""
 theme = "ananke"
 disableKinds = ["RSS", "taxonomy", "term"]
 
@@ -17,7 +17,17 @@ disableKinds = ["RSS", "taxonomy", "term"]
 
   [[menu.main]]
     name = "About"
-    url = "https://mosqlimate.org/"
+    url = "/about/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Registration"
+    url = "/registration/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Instructions"
+    url = "/Instructions/"
     weight = 3
 
   [[menu.main]]
@@ -35,6 +45,10 @@ disableKinds = ["RSS", "taxonomy", "term"]
     url = "https://api.mosqlimate.org/"
     weight = 4
 
-[params]
-favicon = ""
-site_logo = "logo-medium.png"
+  [params]
+    custom_css = ["custom.css"]
+
+  [markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
