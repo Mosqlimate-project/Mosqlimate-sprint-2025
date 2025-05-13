@@ -1,0 +1,24 @@
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+{{ if .Site.Params.description }}<meta name="description" content="{{ .Site.Params.description }}">{{ end }}
+{{ if .Site.Params.author }}<meta name="author" content="{{ .Site.Params.author }}">{{ end }}
+
+<!-- Favicon -->
+<link rel="icon" href="{{ "favicon.ico" | relURL }}">
+
+<!-- Your custom CSS (loaded FIRST to allow theme overrides) -->
+<link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
+
+<!-- Ananke theme CSS (loaded SECOND so your custom.css can override it) -->
+<link rel="stylesheet" href="{{ "ananke/css/main.min.css" | relURL }}">
+
+<!-- Hugo internal templates -->
+{{ template "_internal/opengraph.html" . }}
+{{ template "_internal/twitter_cards.html" . }}
+{{ template "_internal/schema.html" . }}
+
+<!-- RSS feed -->
+{{ with .OutputFormats.Get "rss" -}}
+  {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+{{ end -}}
