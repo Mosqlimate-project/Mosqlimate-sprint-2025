@@ -3,7 +3,7 @@ title: "About"
 description: ""
 ---
 
-The Infodengue-Mosqlimate Sprint Challenge was a collaborative initiative conducted by the Infodengue and Mosqlimate platform teams, centered around the following guiding question:
+The Infodengue-Mosqlimate Sprint Challenge was a collaborative initiative conducted by the [Infodengue](https://info.dengue.mat.br/) and [Mosqlimate](https://mosqlimate.org/) platform teams, centered around the following guiding question:
 
 **What is the expected number of probable dengue cases in the upcoming season, both for Brazil as a whole and by individual Federation Units (UFs)?**
 

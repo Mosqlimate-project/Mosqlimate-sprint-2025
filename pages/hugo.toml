@@ -11,13 +11,13 @@ disableKinds = ["RSS", "taxonomy", "term"]
     weight = 1
 
   [[menu.main]]
-    name = "Sprint 2025"
-    url = "/2025/"
+    name = "About"
+    url = "/about/"
     weight = 2
 
   [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Sprint 2025"
+    url = "/2025/"
     weight = 3
 
   [[menu.main]]
@@ -36,19 +36,9 @@ disableKinds = ["RSS", "taxonomy", "term"]
     weight = 6
 
   [[menu.main]]
-    name = "Team"
+    name = "Organizers"
     url = "https://mosqlimate.org/index.html#team"
     weight = 7
-
-  [[menu.main]]
-    name = "InfoDengue"
-    url = "https://info.dengue.mat.br/"
-    weight = 8
-
-  [[menu.main]]
-    name = "Mosqlimate"
-    url = "https://api.mosqlimate.org/"
-    weight = 9
 
   [params]
     custom_css = ["css/custom.css"]

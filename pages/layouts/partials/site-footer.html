@@ -1,11 +1,16 @@
-<footer class="bottom-0 w-100 pa3" role="contentinfo" style="background-color:  #5a639c;">
+<footer class="bottom-0 w-100 pa3" role="contentinfo" style="background-color: #5a639c; position: relative;">
   <div class="flex justify-between items-center">
+    <!-- Left Content (if any) -->
+    <div></div>
+
+    <!-- Center Content (Copyright and Social Links) -->
     <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.Home.Permalink }}">
       &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ end }}
     </a>
 
     <div>{{ partialCached "social/follow.html" . }}</div>
 
+    <!-- Footer Images on the Right Side -->
     <div class="footer-images flex items-center ml-auto">
       {{ $mosqlimate := resources.Get "logo-medium.png" }}
       {{ $infodengue := resources.Get "infodengue-logo.png" }}
@@ -18,5 +23,9 @@
       </a>
     </div>
   </div>
-</footer>
 
+  <!-- Contact Info in the Center (Absolute Positioned) -->
+  <div class="contact-info white-70" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+    <p class="f6">Contact us: mosqlimate@gmail.com</p>
+  </div>
+</footer>
