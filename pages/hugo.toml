@@ -37,7 +37,7 @@ disableKinds = ["RSS", "taxonomy", "term"]
 
   [[menu.main]]
     name = "Organizers"
-    url = "https://mosqlimate.org/index.html#team"
+    url = "/organize/"
     weight = 7
 
   [params]

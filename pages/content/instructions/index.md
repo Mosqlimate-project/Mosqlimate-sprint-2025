@@ -9,9 +9,9 @@ This section provides detailed instructions on how to participate in the sprint,
 
 To get started, follow these steps:
 
-1. **Review the Sprint Rules:** Carefully read the sprint rules [here](https://sprint.mosqlimate.org/2025).
-2. **Register for the Sprint:** Complete your registration [here](https://sprint.mosqlimate.org/registration).
-3. **Access Data Documentation:** Explore the documentation of the data provided for the challenge [here](https://sprint.mosqlimate.org/data).
+1. **Review the Sprint Rules:** Carefully read the sprint rules [here](../2025).
+2. **Register for the Sprint:** Complete your registration [here](../registration).
+3. **Access Data Documentation:** Explore the documentation of the data provided for the challenge [here](../data).
 
 ### Registering Your Model and Submitting Predictions
 

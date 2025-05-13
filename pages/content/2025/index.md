@@ -35,7 +35,7 @@ Predictions should be made for all 27 Brazilian federative units. If, for some r
 
 ## **Data**
 
-The training datasets will be available for download as tar.gz files on an FTP server created by the Mosqlimate platform<sup>[^1]</sup>, along with a variable dictionary. Instructions to access this data are available [here](https://sprint.mosqlimate.org/instructions/).  Participants are welcome to peruse the [Mosqlimate data API](https://api.mosqlimate.org/datastore/) for specific subsets of data. Participants can use other data sources as long as they share them with other participants through the organizers. The data used must be open-access and updatable. It must also be available for all the Brazilian states.
+The training datasets will be available for download as tar.gz files on an FTP server created by the Mosqlimate platform<sup>[^1]</sup>, along with a variable dictionary. Instructions to access this data are available [here](../data/).  Participants are welcome to peruse the [Mosqlimate data API](https://api.mosqlimate.org/datastore/) for specific subsets of data. Participants can use other data sources as long as they share them with other participants through the organizers. The data used must be open-access and updatable. It must also be available for all the Brazilian states.
 
 List of available datasets these can be updated at any time:
 
@@ -77,7 +77,7 @@ Virtual meetings will be organized during the sprint to answer questions and exp
 
 ## **Sprint Rules:**
 
-1\. **Public GitHub Repository:** All participating models must maintain their code in a public GitHub repository created from this template permanently, even after the end of the event. The [readme.md](http://readme.md) of the repository must contain an explanation of the methodology.
+1\. **Public GitHub Repository:** All participating models must maintain their code in a public GitHub repository created from this template permanently, even after the end of the event. The readme.md of the repository must contain an explanation of the methodology.
 
 2\. **Forecast Submission Format:** The forecast submission format is documented in the template repository available [here](https://github.com/Mosqlimate-project/sprint-template-2025) and in the [API documentation](https://api.mosqlimate.org/docs/registry/POST/predictions/). The upload code will check the formatting before submission. 
 
@@ -85,7 +85,7 @@ Virtual meetings will be organized during the sprint to answer questions and exp
 
 4\. To be considered for the validation round and ensemble construction, each submitted model must provide predictions for all target variables.
 
-**Tutorials and support information can be found [here](https://sprint.mosqlimate.org/instructions/).** 
+**Tutorials and support information can be found [here](../instructions/).** 
 
 **References**
 
