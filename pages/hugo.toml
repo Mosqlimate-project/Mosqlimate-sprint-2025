@@ -23,30 +23,35 @@ disableKinds = ["RSS", "taxonomy", "term"]
   [[menu.main]]
     name = "Registration"
     url = "/registration/"
-    weight = 3
+    weight = 4
 
   [[menu.main]]
     name = "Instructions"
     url = "/Instructions/"
-    weight = 3
+    weight = 5
+
+  [[menu.main]]
+    name = "Data"
+    url = "/data/"
+    weight = 6
 
   [[menu.main]]
     name = "Team"
     url = "https://mosqlimate.org/index.html#team"
-    weight = 3
+    weight = 7
 
   [[menu.main]]
     name = "InfoDengue"
     url = "https://info.dengue.mat.br/"
-    weight = 4
+    weight = 8
 
   [[menu.main]]
     name = "Mosqlimate"
     url = "https://api.mosqlimate.org/"
-    weight = 4
+    weight = 9
 
   [params]
-    custom_css = ["custom.css"]
+    custom_css = ["css/custom.css"]
     favicon = ""
     site_logo = "logo-medium.png"
 

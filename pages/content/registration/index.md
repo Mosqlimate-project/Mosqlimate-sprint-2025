@@ -3,4 +3,4 @@ title: "Registration"
 description: ""
 ---
 
-The registration link will be available on May 15th, coinciding with the official event launch.
+To register in the event fill the [registration form](https://forms.gle/22FFzBZT4Jf5oqzt9).
