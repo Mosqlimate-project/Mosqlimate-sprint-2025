@@ -68,7 +68,7 @@ For the evaluation, the *logarithmic score*, *CRPS,* and the *weighted interval 
 ## **How to participate in the Sprint**
 
 
-To participate, you must register for the sprint between 05/15/2025 and 06/15/2025 by filling out the [registration form](https://forms.gle/22FFzBZT4Jf5oqzt9)  and agreeing to the event rules, so we recommend accessing the event website with detailed instructions and guidelines. 
+To participate, you must fill out the [registration form](https://forms.gle/22FFzBZT4Jf5oqzt9) between 05/15/2025 and 06/15/2025. Before that, we recommend that you access the event website with detailed instructions and guidelines. 
 
 We will maintain two communication channels for interaction between participants and the organization team to promote quick communication about any aspect of the event.
 
