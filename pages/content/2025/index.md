@@ -67,13 +67,15 @@ For the evaluation, the *logarithmic score*, *CRPS,* and the *weighted interval 
 
 ## **How to participate in the Sprint**
 
-First, you should fill out the [registration form](https://forms.gle/22FFzBZT4Jf5oqzt9) and agree to the event rules, presented below. 
+
+To participate, you must register for the sprint between 05/15/2025 and 06/15/2025 by filling out the [registration form](https://forms.gle/22FFzBZT4Jf5oqzt9)  and agreeing to the event rules, so we recommend accessing the event website with detailed instructions and guidelines. 
 
 We will maintain two communication channels for interaction between participants and the organization team to promote quick communication about any aspect of the event.
 
-A discussion forum for participants will be available on [Discord](https://discord.gg/yqtgW4TC). 
+A discussion forum for participants on [Discord](https://discord.gg/yqtgW4TC). 
 
 Virtual meetings will be organized during the sprint to answer questions and explain the model/forecast submission processes; the invitation for these meetings will be sent to the registered email.
+
 
 ## **Sprint Rules:**
 
@@ -96,6 +98,9 @@ Virtual meetings will be organized during the sprint to answer questions and exp
 [3.	Bracher, J., Ray, E. L., Gneiting, T. & Reich, N. G. Evaluating epidemic forecasts in an interval format. ](https://www.zotero.org/google-docs/?O1n02o)[*PLOS Comput. Biol.* ](https://www.zotero.org/google-docs/?O1n02o)[**17**](https://www.zotero.org/google-docs/?O1n02o)[, e1008618 (2021).](https://www.zotero.org/google-docs/?O1n02o)
 
 [4.	Gneiting, T., Raftery, A. E., Westveld, A. H. & Goldman, T. Calibrated Probabilistic Forecasting Using Ensemble Model Output Statistics and Minimum CRPS Estimation. (2005) doi:10.1175/MWR2904.1.](https://www.zotero.org/google-docs/?O1n02o)
+
+[5.Eduardo Correa Araujo, Luiz Max Carvalho, Fabiana Ganem, Lua Bida Vacaro, Leonardo Soares Bastos, Lais Picinini Freitas, Marcio Bastos, Ramila Alencar, Lucas Bianchi, Raul Capellan, Xiang Chen, Oswaldo Cruz, Americo Cunha Jr., Haridas K Das, Chloe Fletcher, Raquel Martins Lana, Rachel Lowe, Daniela Luhrsen, Giovenale Moirano, Paula Moraga, Lucas M. Stolerman, Fernanda Valente, Claudia Torres Codeco, Flavio Codeco Coelho. Leveraging probabilistic forecasts for dengue preparedness and control: the 2024 Dengue Forecasting Sprint in Brazil. medRxiv 2025.05.12.25327419](https://doi.org/10.1101/2025.05.12.25327419)
+
 
 
 ## Financial Support: 
