@@ -72,7 +72,7 @@ To participate, you must fill out the [registration form](https://forms.gle/22FF
 
 We will maintain two communication channels for interaction between participants and the organization team to promote quick communication about any aspect of the event.
 
-A discussion forum for participants on [Discord](https://discord.gg/yqtgW4TC). 
+A discussion forum for participants on [Discord](https://discord.gg/FJA8rvhkbS). 
 
 Virtual meetings will be organized during the sprint to answer questions and explain the model/forecast submission processes; the invitation for these meetings will be sent to the registered email.
 

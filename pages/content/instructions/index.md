@@ -26,5 +26,5 @@ For more guidance, check out the following resources:
 
 If you encounter any issues or have questions, reach out to us via:
 
-- **Discord Channel:** [Join the Discord](https://discord.gg/yqtgW4TC)
+- **Discord Channel:** [Join the Discord](https://discord.gg/FJA8rvhkbS)
 - **Email:** Send your queries to mosqlimate@gmail.com.
