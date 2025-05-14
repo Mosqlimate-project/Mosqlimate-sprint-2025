@@ -18,4 +18,5 @@ predictions;
 
 To facilitate model development, the Mosqlimate platform compiled a comprehensive dataset integrating epidemiological, demographic, and climate data. It also provided a GitHub-based submission template to standardize and aggregate forecasts into an ensemble model.
 
-In the first edition of the Sprint, six teams participated, contributing predictive models that were showcased during a workshop held on August 16. A technical report summarizing the results is available [here](https://zenodo.org/records/13929005).
+Six teams participated in the first edition of the Sprint, presenting predictive models during a workshop held on August 16. The outcomes are detailed in a [technical report](https://zenodo.org/records/13929005) and a [scientific article](https://www.medrxiv.org/content/10.1101/2025.05.12.25327419v1).
+

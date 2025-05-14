@@ -1,6 +1,6 @@
 baseURL = "https://sprint.mosqlimate.org/"
 languageCode = "en-us"
-title = "Mosqlimate - Sprint"
+title = "Mosqlimate - IMDC"
 theme = "ananke"
 disableKinds = ["RSS", "taxonomy", "term"]
 
