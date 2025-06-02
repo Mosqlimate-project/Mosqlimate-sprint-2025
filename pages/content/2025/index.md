@@ -60,8 +60,8 @@ For the evaluation, the *logarithmic score*, *CRPS,* and the *weighted interval 
 ## **Important Dates:**
 
 1. Release of Call for participation — May 15th, 2025
-2. Forecast submission deadline (validation datasets) — June 30th, 2025
-3. Webinar (Results of the validation round) — July 30th, 2025
+2. Forecast submission deadline (validation datasets) — July 31th, 2025
+3. Webinar (Results of the validation round) — August 20th, 2025
 4. 2nd Forecast submission deadline (2026 forecasts) - September 23rd, 2025
 5. Presentation of the ensemble model - October 15th, 2025
 
