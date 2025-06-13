@@ -42,6 +42,8 @@ Inside the data\_sprint\_2025 folder, there are the following files:
 - Environmental: *environ\_vars.csv.gz*,
 - Ocean temperature indicators: *enso.csv.gz, iod.csv.gz, pdo.csv.gz*,
 - Shapefile of the cities: *shape\_muni.gpkg*,
+- Shapefile of the regional health divisions: *shape\_regional\_health.gpkg*,
+- Shapefile of the macroregional health divisions: *shape\_macroregional\_health.gpkg*,
 - Link between each city and its regional and health region and macroregion: *map\_regional\_health.csv*
 - Weekly time series of dengue cases: *dengue.csv.gz*
 - Weekly time series of climatic variables: *climate.csv.gz*
@@ -179,8 +181,26 @@ Environmental characteristics of the municipalities. Other variables can be aggr
 |uf\_code|int|IBGE's state code.|
 |geometry|geometry|municipality geometry.|
 
+**Table 7.** Geometry of the regional health divisions in *shape\_regional\_health.gpkg* (source = DATASUS).
 
-**Table 7.** Link between each city and its regional and macroregional health center in *map\_regional\_health.csv* (source = IBGE).
+|**Column name**|**Type**|**Description**|
+| :-: | :- | :- |
+|regional\_geocode|int|Regional health code.|
+|regional\_name|str|Regional health name.|
+|uf\_code|int|IBGE's state code.|
+|geometry|geometry|Regional health geometry.|
+
+**Table 8.** Geometry of the macroregional health divisions in *shape\_macroregional\_health.gpkg* (source = DATASUS).
+
+|**Column name**|**Type**|**Description**|
+| :-: | :- | :- |
+|macroregional\_geocode|int|Macrorregional health code.|
+|macroregional\_name|str|Macrorregional health name.|
+|uf|str |Two-letter state name.|
+|uf\_code|int|IBGE's state code.|
+|geometry|geometry|Macroregional health geometry.|
+
+**Table 9.** Link between each city and its regional and macroregional health center in *map\_regional\_health.csv* (source = IBGE).
 
 |**Column name**|**Type**|**Description**|
 | :-: | :- | :- |
@@ -196,7 +216,7 @@ Environmental characteristics of the municipalities. Other variables can be aggr
 |geocode|int|[IBGE's municipality code](https://www.ibge.gov.br/explica/codigos-dos-municipios.php).|
 |geocode\_name|str|Municipality name.|
 
-**Table 8.** Population data (source: [SVS](http://tabnet.datasus.gov.br/cgi/deftohtm.exe?ibge/cnv/popsvs2024br.def)). Files with population by city and year (2001 - 2024) in *datasus\_population\_2001\_2024.csv.gz*
+**Table 10.** Population data (source: [SVS](http://tabnet.datasus.gov.br/cgi/deftohtm.exe?ibge/cnv/popsvs2024br.def)). Files with population by city and year (2001 - 2024) in *datasus\_population\_2001\_2024.csv.gz*
 
 |**Column name**|**Type**|**Description**|
 | :-: | :- | :- |
