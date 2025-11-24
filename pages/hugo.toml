@@ -11,34 +11,39 @@ disableKinds = ["RSS", "taxonomy", "term"]
     weight = 1
 
   [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Blogposts"
+    url = "/blog/"
     weight = 2
 
   [[menu.main]]
-    name = "Sprint 2025"
-    url = "/2025/"
+    name = "Sprint"
+    url = "/sprint/"
     weight = 3
+
+  [[menu.main]]
+    name = "Results"
+    url = "/results/"
+    weight = 4
 
   [[menu.main]]
     name = "Registration"
     url = "/registration/"
-    weight = 4
+    weight = 5
 
   [[menu.main]]
     name = "Instructions"
     url = "/Instructions/"
-    weight = 5
+    weight = 6
 
   [[menu.main]]
     name = "Data"
     url = "/data/"
-    weight = 6
+    weight = 7
 
   [[menu.main]]
     name = "Organizers"
     url = "/organize/"
-    weight = 7
+    weight = 8
 
   [params]
     custom_css = ["css/custom.css"]

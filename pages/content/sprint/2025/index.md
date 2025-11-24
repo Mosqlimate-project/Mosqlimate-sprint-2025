@@ -1,8 +1,4 @@
----
-title: ""
-description: ""
-date: ""
----
+**2025 Infodengue Sprint: Dengue Fever Predictive Modeling in Brazil**
 
 This initiative is led by the Mosqlimate and Infodengue in collaboration with the Harmonize and IDExtremes projects.
 

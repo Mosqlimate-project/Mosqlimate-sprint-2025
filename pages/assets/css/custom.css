@@ -1,0 +1,36 @@
+/* Justify all text inside the homepage content */
+
+/* Aumenta a largura da coluna */
+.measure-wide {
+  max-width: 1200px !important;
+}
+
+/* Justifica todo texto dentro da homepage */
+.pa3.pa4-ns.nested-copy-line-height p,
+.pa3.pa4-ns.nested-copy-line-height li {
+  text-align: justify;
+  line-height: 1.75;
+}
+
+.nested-copy-line-height p,
+.prose p {
+  text-align: justify;
+}
+
+/* Caso seu texto esteja dentro de .measure */
+.measure p {
+  text-align: justify;
+}
+
+main p,
+article p,
+section p {
+  text-align: justify;
+}
+
+
+/* Centralizar posts, se quiser */
+.home .flex {
+    justify-content: center;
+}
+
