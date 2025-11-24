@@ -1,0 +1,15 @@
+<section class="measure-wide center ph3">
+  <h2 class="f2 lh-title mt2 mb3">Blogposts</h2>
+
+  {{ $posts := where .Site.RegularPages "Section" "blog" }}
+  {{ $posts = sort $posts "Date" "desc" }}
+
+  {{ if gt (len $posts) 0 }}
+    {{ range first 3 $posts }}
+      {{ .Render "summary" }}
+    {{ end }}
+  {{ else }}
+    <!-- opcional -->
+    <p>Nenhum post ainda.</p>
+  {{ end }}
+</section>
