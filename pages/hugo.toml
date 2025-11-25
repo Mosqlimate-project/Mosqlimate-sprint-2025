@@ -32,7 +32,7 @@ disableKinds = ["RSS", "taxonomy", "term"]
 
   [[menu.main]]
     name = "Instructions"
-    url = "/Instructions/"
+    url = "/instructions/"
     weight = 6
 
   [[menu.main]]

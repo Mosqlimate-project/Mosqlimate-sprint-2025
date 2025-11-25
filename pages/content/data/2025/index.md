@@ -2,7 +2,6 @@
 title: "Data documentation - 2025"
 description: ""
 date: ""
-slug: "2025"
 ---
 
 This section provides detailed documentation of the data available for the Sprint, including table descriptions and other essential information for data analysis and modelling. 

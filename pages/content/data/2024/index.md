@@ -2,7 +2,6 @@
 title: "Data documentation - 2024"
 description: ""
 date: ""
-slug: "2024"
 ---
 
 This data dictionary has been developed for the **Infodengue Sprint 2024: Predictive Modeling of Dengue in Brazil.** It contains detailed documentation of the tables available for the Sprint, providing essential information for data analysis and modeling. The link to the database is https://info.dengue.mat.br/minio/ (login: guest; pass: guestguest). Other tables may be added later, we will let you know.

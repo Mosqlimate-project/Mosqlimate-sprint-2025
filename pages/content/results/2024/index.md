@@ -1,7 +1,6 @@
 ---
 title: "Results IMDC 2024"
 description: ""
-slug: "2024"
 ---
 
 The **2024 edition** of the **First Infodengue-Mosqlimate Dengue Challenge (IMDC Sprint)** concluded with a final webinar held on **October 31, 2024**. Six teams participated in the first edition of the Sprint. 
