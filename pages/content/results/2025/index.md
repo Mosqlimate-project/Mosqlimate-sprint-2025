@@ -1,7 +1,6 @@
 ---
 title: "Results 2025"
 description: ""
-slug: "2025"
 ---
 
 

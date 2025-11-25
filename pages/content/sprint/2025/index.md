@@ -1,7 +1,6 @@
 ---
 title: "Sprint 2025"
 description: ""
-slug: "2025"
 ---
 
 **2025 Infodengue Sprint: Dengue Fever Predictive Modeling in Brazil**
