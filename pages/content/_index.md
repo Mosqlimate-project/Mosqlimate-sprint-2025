@@ -18,6 +18,6 @@ predictions;
 
 * Continuously update and monitor model performance.
 
-To facilitate model development, the Mosqlimate platform compiled a comprehensive dataset integrating epidemiological, demographic, and climate data. It also provided a GitHub-based submission template to standardize and aggregate forecasts into an ensemble model.
+To facilitate model development, the Mosqlimate Platform compiled a comprehensive dataset integrating epidemiological, demographic, and climate data. It also provided a GitHub-based submission template to standardize and aggregate forecasts into an ensemble model.
 
 {{< recent-posts >}}
