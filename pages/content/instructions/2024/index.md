@@ -1,6 +1,7 @@
 ---
 title: "Instructions - 2024"
 description: ""
+slug: "2024"
 ---
 
 This section provides detailed instructions on how to participate in the sprint, access the data, and use the available tutorials.
