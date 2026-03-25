@@ -25,4 +25,50 @@ img[src*='#center'] {
   
 .red {
     color: red;
-  }
+}
+
+
+/* Reduz o preenchimento vertical do cabeçalho e do main */
+.ph3-ns.pv4-ns {
+    padding-top: 2rem !important;
+    padding-bottom: 2rem !important;
+}
+
+/* Garante que o main não tenha um padding-bottom gigante (o pb7 que vimos antes) */
+main.pb7 {
+    padding-bottom: 3rem !important;
+}
+
+/* 1. Garante que o fundo da página não cresça além do necessário */
+html, body {
+    height: 100% !important;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+/* 2. Reduz o "balão" do Header (Onde fica o título Registration) */
+/* O Ananke coloca um padding vertical gigante aqui por padrão */
+.tc-l.pv3.ph3.ph4-ns, 
+.pv4.pv5-l,
+header.cover {
+    padding-top: 1.5rem !important;
+    padding-bottom: 1.5rem !important;
+    min-height: auto !important; /* Remove alturas mínimas que forçam rolagem */
+}
+
+/* 3. Ajusta o corpo principal para ocupar o resto da tela sem sobrar */
+main {
+    flex: 1 0 auto !important;
+    padding-bottom: 2rem !important; /* Espaço pequeno antes do footer */
+    min-height: 0 !important; /* Remove qualquer vh-100 que esteja sobrando */
+}
+
+/* 4. Trava o footer no fim da flexbox */
+footer {
+    flex-shrink: 0 !important;
+}
+
+h1 {
+  margin-top: 0;
+}
