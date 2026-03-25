@@ -1,5 +1,5 @@
 ---
-title: "Results IMDC 2024"
+title: "Results - IMDC 2024"
 description: ""
 ---
 
