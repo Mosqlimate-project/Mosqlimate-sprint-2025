@@ -1,6 +1,6 @@
 baseURL = "https://sprint.mosqlimate.org/"
 languageCode = "en-us"
-title = "Mosqlimate - IMDC"
+title = ""
 theme = "ananke"
 disableKinds = ["RSS", "taxonomy", "term"]
 
@@ -11,23 +11,23 @@ disableKinds = ["RSS", "taxonomy", "term"]
     weight = 1
 
   [[menu.main]]
-    name = "Blogposts"
+    name = "Blog"
     url = "/blog/"
     weight = 2
 
   [[menu.main]]
-    name = "Sprint"
+    name = "Previous Editions"
     url = "/sprint/"
     weight = 3
 
   [[menu.main]]
-    name = "Results"
-    url = "/results/"
+    name = "Registration"
+    url = "/registration/"
     weight = 4
 
   [[menu.main]]
-    name = "Registration"
-    url = "/registration/"
+    name = "Calendar"
+    url = "/calendar/"
     weight = 5
 
   [[menu.main]]
@@ -40,10 +40,20 @@ disableKinds = ["RSS", "taxonomy", "term"]
     url = "/data/"
     weight = 7
 
+    [[menu.main]]
+    name = "Results"
+    url = "/results/"
+    weight = 8
+
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 9
+
   [[menu.main]]
     name = "Organizers"
     url = "/organize/"
-    weight = 8
+    weight = 10
 
   [params]
     custom_css = ["css/custom.css"]

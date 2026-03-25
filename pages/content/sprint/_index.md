@@ -1,8 +1,7 @@
 ---
-title: "Sprint details"
+title: "IMDC details"
 description: ""
 ---
 
-[Details - IMDC 2025](2025/)
-
-[Details - IMDC 2024](2024/)
+* [Details - IMDC 2025](2025/)
+* [Details - IMDC 2024](2024/)

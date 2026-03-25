@@ -1,5 +1,5 @@
 ---
-title: "Sprint 2025"
+title: "Details - IMDC 2025"
 description: ""
 ---
 
