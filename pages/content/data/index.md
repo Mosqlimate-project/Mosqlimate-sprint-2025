@@ -48,6 +48,7 @@ Inside the `data_imdc_2026` folder, there are the following files:
 - Weekly time series of dengue cases: *dengue.csv.gz*,
 - Weekly time series of chikungunya cases: *chikungunya.csv.gz*,
 - Weekly time series of climatic variables: *climate.csv.gz*.
+- Monthly time series of climate variable forecasts: *climate\_forecast[.](http://.csv.gz)csv.gz*.
 
 Each of these datasets is described in detail below.
 
@@ -152,6 +153,26 @@ Reanalysis of hourly data from ERA5, summarized by week by the Mosqlimate projec
 |rel\_humid\_max|float (%)|Maximum relative humidity.|
 |thermal\_range|float (°C)|Difference between the daily maximum and minimum temperature averaged by week|
 |rainy\_days|int|Number of days in the week for which `precip\_tot > 0.03`.|
+
+### **Climate Forecast**
+Seasonal forecasts (up to six months ahead) of climate variables from Copernicus, generated using System 51 by the ECMWF center.
+
+**Period:** January 2010–March 2026.
+
+**File:** *climate\_forecast.csv.gz*. 
+
+**Sources:** [Copernicus](https://cds.climate.copernicus.eu/datasets/seasonal-monthly-single-levels?tab=overview).
+
+**Table 3.** Description of the columns of *climate\_forecast.csv.gz.*
+
+|**Column name**|**Type**|**Description**|
+| :-: | :-: | :-: |
+|geocode|int|[IBGE's municipality code](https://www.ibge.gov.br/explica/codigos-dos-municipios.php).|
+|reference\_month|YYYY-MM-DD|Reference month.|
+|forecast\_months\_ahead|int|The number of months into the future relative to the reference month for which the forecast is made.|
+|temp\_med|float (°C)|Mean temperature.|
+|precip\_tot|float (mm)|Total precipitation.|
+|rel\_humid\_med|float (%)|Average relative humidity.|
 
 ### Ocean temperature and level oscillations
 **Period:** 1993-01-04 — 2026-03-10 (weekly).
@@ -260,6 +281,6 @@ Environmental characteristics of the municipalities. Other variables can be aggr
 
 ### Previous editions: 
 
-* [Data documentation - IMDC 2025](2025/)
+* [Data documentation - IMDC 2025](/data/2025/)
 
-* [Data documentation - IMDC 2024](2024/)
+* [Data documentation - IMDC 2024](/data/2024/)
