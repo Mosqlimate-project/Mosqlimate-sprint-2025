@@ -148,6 +148,6 @@ Important dates:
 
 ### Previous editions: 
 
-* [Instructions - IMDC 2025](2025/)
+* [Instructions - IMDC 2025](/instructions/2025/)
 
-* [Intructions - IMDC 2024](2024/)
+* [Intructions - IMDC 2024](/instructions/2024/)
