@@ -1,10 +1,10 @@
 ---
-title: "Data documentation"
+title: "Data documentation - 3rd IMDC"
 description: ""
 ---
 
 
-This section provides detailed documentation of the data available for the Sprint, including table descriptions and other essential information for data analysis and modelling. 
+This section provides detailed documentation of the data available for the 3rd IMDC, including table descriptions and other essential information for data analysis and modelling. 
 
 The data were uploaded to an FTP server. There are several ways to access the data on an FTP server. We will propose some here: 
 
