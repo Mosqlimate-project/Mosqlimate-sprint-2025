@@ -173,9 +173,3 @@ Important dates:
 * **September 22, 2026** – Internal webinar for teams to present model methodologies
 * **October 15, 2026** – International webinar: Technical results of IMDC 2026
 * **October 30, 2026** – International webinar: IMDC 2026 results for the general audience
-
-### Previous editions: 
-
-* [Instructions - IMDC 2025](/instructions/2025/)
-
-* [Intructions - IMDC 2024](/instructions/2024/)

@@ -1,8 +1,22 @@
 # Editing this site
 This site is built using Hugo, a static site generator. The site is hosted on GitHub Pages, which automatically builds and deploys the site when changes are pushed to the `main` branch.
 
+## Project structure
+
+All website content lives inside the pages/ directory. Hugo uses Markdown files (`.md`) to generate pages.
+
+## Syncing your local repository
+
+If the project uses submodules, make sure they are properly initialized and updated:
+
+```bash
+git submodule init
+git submodule update
+```
+
 ## Adding new content
-Hugo uses Markdown files to create content for your website the site is under the pages directory. To create a new page, run the following command in your terminal:
+
+To create a new page, run the following command in your terminal:
 
 ```bash
 cd pages
