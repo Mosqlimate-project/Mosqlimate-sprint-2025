@@ -1,0 +1,21 @@
+{{ define "main" }}
+  <article class="mw8 center pa3 pa4-ns">
+
+    <!-- Título da página -->
+    <h1>{{ .Title }}</h1>
+    
+    <!-- Mostra o conteúdo do _index.md -->
+    <div class="content">
+      {{ .Content }}
+    </div>
+
+    <!-- Lista das subpáginas -->
+    <h3>Previous editions</h3>
+    <ul>
+      {{ range .Pages }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+
+  </article>
+{{ end }}

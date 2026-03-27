@@ -278,9 +278,3 @@ Environmental characteristics of the municipalities. Other variables can be aggr
 [^3]: Regional and Macroregional are the subdivisions used by the Ministry of Health.
 [^4]: This data will be updated before the submission of the 2026 forecasts.
 
-
-### Previous editions: 
-
-* [Data documentation - IMDC 2025](/data/2025/)
-
-* [Data documentation - IMDC 2024](/data/2024/)
