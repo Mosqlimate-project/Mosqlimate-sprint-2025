@@ -36,8 +36,10 @@ Results were disseminated through several events and publications:
 * [Validation results webinar](https://www.youtube.com/watch?v=YexrCASlqIE)
 * [International webinar (2025)](https://www.youtube.com/watch?v=Sb3lv3hGwGg&list=PLh4FLfhFN5io6zK9fLbAOABM1pMclWAoL)
 * Technical reports (in Portuguese) published in [2024](https://zenodo.org/records/13929005) and [2025](https://zenodo.org/records/17516518) 
-* [Scientific article describing the methodology and results](https://doi.org/10.1101/2025.05.12.25327419)
-      
+* Scientific article describing the methodology and results:
+  - Preprint version: https://doi.org/10.1101/2025.05.12.25327419
+  - Peer-reviewed publication (PNAS): https://www.pnas.org/doi/10.1073/pnas.2508989123
+
 ### Impact
 The IMDC has contributed to:
 * The development of more robust epidemiological forecasting tools
