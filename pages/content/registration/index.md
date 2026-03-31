@@ -3,4 +3,4 @@ title: "Registration"
 description: ""
 ---
 
-Registration for the third edition of the challenge will open on April 1, 2026.
+Registration for the third edition of the challenge is now open here: https://forms.gle/WVXnQK5pNw1PYsTV6. 

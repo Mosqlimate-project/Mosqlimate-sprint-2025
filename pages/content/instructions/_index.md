@@ -173,3 +173,11 @@ Important dates:
 * **September 22, 2026** – Internal webinar for teams to present model methodologies
 * **October 15, 2026** – International webinar: Technical results of IMDC 2026
 * **October 30, 2026** – International webinar: IMDC 2026 results for the general audience
+
+
+### 10. Support and Contact
+
+If you encounter any issues or have questions, reach out to us via:
+
+- **Discord Channel:** [Join the Discord](https://discord.gg/FJA8rvhkbS)
+- **Email:** Send your queries to mosqlimate@gmail.com.

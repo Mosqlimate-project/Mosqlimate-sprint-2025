@@ -26,7 +26,7 @@ disableKinds = ["RSS", "taxonomy", "term"]
     weight = 4
 
   [[menu.main]]
-    name = "Calendar"
+    name = "Rules"
     url = "/calendar/"
     weight = 5
 
