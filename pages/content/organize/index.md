@@ -26,3 +26,6 @@ Eduardo Correa Araujo
 Luã Bida Vacaro
 
 Iasmim Ferreira de Almeida 
+
+## Support:
+<img src="./logo_tghn.png" style="display: block; width: 250px;" />
