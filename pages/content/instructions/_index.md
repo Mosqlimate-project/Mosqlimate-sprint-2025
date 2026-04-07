@@ -138,7 +138,7 @@ Each team develops its own forecasting model using different methodological appr
 
 You can take a look at the list of models submitted in previous years <a href="https://mosqlimate.org/models?page=1" target="_blank" rel="noopener noreferrer">here</a>.
 
-Forecasts must be submitted in a standardized format. Check the details in  the <a href="https://github.com/Mosqlimate-project/imdc_template_2026" target="_blank" rel="noopener noreferrer">official challenge repository on GitHub</a>. This process ensures that all forecasts can be evaluated consistently.
+Forecasts must be submitted in a standardized format. Check the details in  the <a href="https://github.com/Mosqlimate-project/imdc_template_2026" target="_blank" rel="noopener noreferrer">official challenge repository on GitHub</a>. This process ensures that all forecasts can be evaluated consistently. Additionally, check out our playlist with tutorial videos for the challenge <a href="https://www.youtube.com/watch?v=y2oaSTnz5Mw&list=PLh4FLfhFN5irN_IoZvy4c3cf4ZWrSWrwF" target="_blank" rel="noopener noreferrer">here</a>.
 
 
 ### 6. Model evaluation
