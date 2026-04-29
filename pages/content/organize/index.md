@@ -5,27 +5,47 @@ description: ""
 
 ## Scientific Committee
 
-Flávio Codeço Coelho (Chair of the scientific Committee)
+- **Flávio Codeço Coelho** *(Chair of the Scientific Committee)*  
+  Applied Mathematics School, Getulio Vargas Foundation, Brazil
 
-Luiz Max Carvalho
+- **Cláudia Torres Codeço** *(Chair of the Scientific Committee)*  
+  Oswaldo Cruz Foundation, Scientific Computing Program, Brazil
 
-Leonardo Bastos 
+- **Luiz Max Carvalho**  
+  Applied Mathematics School, Getulio Vargas Foundation, Brazil
 
-Cláudia Torres Codeço 
+- **Leonardo Bastos**  
+  Oswaldo Cruz Foundation, Scientific Computing Program, Brazil
 
-Raquel Martins Lana 
+- **Marcela Lopes Santos**  
+  Ministry of Health of Brazil
 
-Marcela Lopes Santos (Ministry of Health of Brazil)
+- **Mattia Mazzoli**  
+  ISI Foundation, Italy
+
+- **Rachel Lowe**  
+  Barcelona Supercomputing Center, Barcelona, Spain
+
+- **Raquel Martins Lana**  
+  Barcelona Supercomputing Center, Spain
+
 
 ## Organizing Committee
 
-Fabiana Sherine Ganem dos Santos  (chair of the organizing committee)
+- **Fabiana Sherine Ganem dos Santos** *(Chair of the Organizing Committee)*  
+  Applied Mathematics School, Getulio Vargas Foundation, Brazil
 
-Eduardo Correa Araujo 
+- **Eduardo Correa Araujo**  
+  Applied Mathematics School, Getulio Vargas Foundation, Brazil
 
-Luã Bida Vacaro
+- **Luã Bida Vacaro**  
+  Applied Mathematics School, Getulio Vargas Foundation, Brazil
 
-Iasmim Ferreira de Almeida 
+- **Iasmim Ferreira de Almeida**  
+  Applied Mathematics School, Getulio Vargas Foundation, Brazil
 
 ## Support:
-<img src="./logo_tghn.png" style="display: block; width: 250px;" />
+<div style="display: flex; gap: 20px; align-items: center;">
+  <img src="./logo_tghn.png" style="width: 250px;" />
+  <img src="./kwar_logo.png" style="width: 250px;" />
+</div>
