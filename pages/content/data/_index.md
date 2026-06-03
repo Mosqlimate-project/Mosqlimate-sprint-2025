@@ -49,6 +49,7 @@ Inside the `data_imdc_2026` folder, there are the following files:
 - Weekly time series of chikungunya cases: *chikungunya.csv.gz*,
 - Weekly time series of climatic variables: *climate.csv.gz*.
 - Monthly time series of climate variable forecasts: *climate\_forecast[.](http://.csv.gz)csv.gz*.
+- Daily medical doctors accesses to dengue-related content in the Afya Whitebook application: *access\_afya\_dengue_2021_2026[.](http://.csv.gz)csv.gz*.
 
 Each of these datasets is described in detail below.
 
@@ -263,6 +264,31 @@ Environmental characteristics of the municipalities. Other variables can be aggr
 |geocode|int|[IBGE's municipality code](https://www.ibge.gov.br/explica/codigos-dos-municipios.php).|
 |year|int |Year (YYYY)|
 |population|int |Population of the city.|
+
+
+### **Afya application data**
+
+This dataset was provided by Afya and contains the daily number of accesses made by medical doctors to dengue-related content within the [Afya Whitebook application](https://whitebook.pebmed.com.br/planos).
+
+
+**Period:** Daily data between '2021-01-01' and '2026-05-31'.
+
+**Aggregation:** The daily number of accesses by municipality.
+
+**File:** *access\_afya\_dengue_2021_2026.csv.gz*. 
+
+**Sources:** [Afya Whitebook application](https://whitebook.pebmed.com.br/planos).
+
+
+**Table 11.** Description of the columns in *access\_afya\_dengue_2021_2026.csv.gz*
+
+|**Column name**|**Type**|**Description**|
+| :-: | :-: | :-: |
+|access_date|YYYY-MM-DD|Date of access.|
+|accessed_topic|str|Topic accessed.|
+|geocode|int|[IBGE's municipality code](https://www.ibge.gov.br/explica/codigos-dos-municipios.php).|
+|uf|str|Federative Unit (state).|
+|access_count|int| Number of accesses to the topic. | 
 
 
 **Additional datasets**
