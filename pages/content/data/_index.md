@@ -176,13 +176,15 @@ Seasonal forecasts (up to six months ahead) of climate variables from Copernicus
 |rel\_humid\_med|float (%)|Average relative humidity.|
 
 ### Ocean temperature and level oscillations
-**Period:** 1993-01-04 — 2026-03-10 (weekly).
+**Period:** 1993-01-03 — 2026-05-10 (weekly).
 
 **File:**  *ocean\_climate\_oscillations.csv.gz*. 
 
 **Sources:** <https://sealevel.jpl.nasa.gov/>.
 
 **Table 4.** Description of the columns of *ocean\_climate\_oscillations.csv.gz*. 
+
+**Note:** The dates provided in the original data source were reported on Mondays or Tuesdays and were subsequently shifted to Sundays to ensure temporal alignment with the epidemiological case data. For weeks with missing observations, the corresponding indicator values were imputed using a last-observation-carried-forward approach, whereby each missing value was replaced with the most recent available value from the preceding week.
 
 |**Column name**|**Type**|**Description**|
 | :-: | :-: | :-: |
