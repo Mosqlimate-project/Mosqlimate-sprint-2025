@@ -21,8 +21,8 @@ disableKinds = ["RSS", "taxonomy", "term"]
     weight = 3
 
   [[menu.main]]
-    name = "Registration"
-    url = "/registration/"
+    name = "Teams 3rd IMDC"
+    url = "/team/"
     weight = 4
 
   [[menu.main]]

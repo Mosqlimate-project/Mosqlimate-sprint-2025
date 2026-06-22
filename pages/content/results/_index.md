@@ -1,8 +1,6 @@
 ---
-title: "Results"
+title: "Results - 3rd IMDC"
 description: ""
 ---
 
-[Results - IMDC 2025](2025/)
-
-[Results - IMDC 2024](2024/)
+The results of this edition will be posted here soon. 
