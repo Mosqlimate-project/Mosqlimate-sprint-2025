@@ -30,6 +30,7 @@ The insights derived from the ensemble modeling were used to generate the **"Rel
 
 * **Technical Report (Portuguese Only):** The official report detailing the seasonal scenarios is available on Zenodo: [https://zenodo.org/records/24008622](https://zenodo.org/records/24008622)
 
+
 ### Webinars
 
 Recordings of the 3rd IMDC webinars are available in a dedicated playlist on the [Mosqlimate YouTube channel](https://www.youtube.com/watch?v=uMAg82EqYEE&list=PLh4FLfhFN5io1KfNGW6y3SgmQ_jfEaYzo).
