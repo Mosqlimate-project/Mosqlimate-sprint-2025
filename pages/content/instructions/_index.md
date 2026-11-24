@@ -22,7 +22,7 @@ The training datasets will be available for download on an FTP server provided b
 * climate data
 * demographic data
 
-These data will be used to train and validate forecasting models. Participants are also welcome to explore the Mosqlimate data API to retrieve specific subsets of data. **Additional data sources may be used, provided they are shared with other participants through the organizers. Any additional datasets must be open-access, regularly updatable, and available for all Brazilian states**.
+These data will be used to train and validate forecasting models. Participants are also welcome to explore the Mosqlimate data API to retrieve specific subsets of data. **Additional data sources may be used, provided they are shared with other participants through the organizers. Any additional datasets must be open-access, regularly updatable, and available for all Brazilian states**. 
 
 ### 3 - Geographic scope of the challenges 
 
