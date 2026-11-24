@@ -40,6 +40,12 @@ jobs:
         activate-environment: sprint.mosqlimate.io
         auto-update-conda: true
         conda-solver: libmamba
+    - name: Install Dart Sass
+      run: |
+        curl -L https://github.com/sass/dart-sass/releases/download/1.97.3/dart-sass-1.97.3-linux-x64.tar.gz -o dart-sass.tar.gz
+        tar -xzf dart-sass.tar.gz
+        mv dart-sass "$RUNNER_TEMP/dart-sass"
+        echo "$RUNNER_TEMP/dart-sass" >> "$GITHUB_PATH"
 
     - name: Build Hugo
       working-directory: pages
